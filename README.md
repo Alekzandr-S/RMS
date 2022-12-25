@@ -3,7 +3,8 @@
 The main goal is make the process of managing livestock as streamlined and as painless as possible. To get started all 
 you need is to fill out the short registration form...
 
-        FORMS..
+<img src="C:\Users\Aleksander S\Pictures\Log in.png" width="150"/>
+
 And that's it. You're all set to begin using the system.
 
 ##Entering Rabbit Information
@@ -12,21 +13,21 @@ Once you're logged in you'll be led to the home page/dashboard which is pretty e
 data to work with, so the first step is to input your does (females) and bucks (males). Right at the top of the screen 
 in the main menu is the Manage Does and Manage Bucks button we are mainly interested in:
 
-      HOME-VIEW...
+<img src="C:\Users\Aleksander S\Pictures\Dashboard.png" width="200"/>
 
 ##Adding a Rabbit
 
 Clicking on Manage Does, we're taken to the list of all our does, which is currently empty. To add our first doe, click 
 Add Doe button on top of the grid:
 
-    DOE-VIEW
+<img src="C:\Users\Aleksander S\Pictures\DoeView.png" width="200"/>
 
 For each rabbit created, the system mainly needs to know the cage reference identifying the location of the animal. 
 Click the save button below the form, and the doe will be saved to the system.
 It should be noted however that a doe must be at least 5 months old before it can be old enough to begin to mate. Mating
 younger does adversely affect their health, growth and performance in the long run.
 
-        DOE-FORM
+<img src="C:\Users\Aleksander S\Pictures\DoeForm.png" width="200"/>
 
 From this point on out this Doe will have a unique id in the system. All information you enter from this point on will
 follow along with it.
@@ -48,24 +49,31 @@ The system will be able to keep track of the following major events:
 -Breeding boxes must be put in cages in preparation for birth.
 -Kits are due for weaning from their mothers.
 
+<img src="C:\Users\Aleksander S\Pictures\TaskTracker.png" width="200"/>
+
+
                                USER MANUAL
 ## Creating animals
 Let's start with an example of how to create a doe. The step outlined here are identical for creating a buck and 
 weaners.
 After opening the Manage Does. Click the add 'Add Doe' button on top of the grid. This will bring up the new doe form:
 
-        DOE-FORM...
+<img src="C:\Users\Aleksander S\Pictures\DoeForm.png" width="200"/>
+
 Once you've created an animal, you'll now be able to see it in the list of all your does.
-        DOE-LIST...
+
+<img src="C:\Users\Aleksander S\Pictures\DoeView.png" width="200"/>
         
 ##Managing Litters
 Keeping track of the progress of a doe' s litters has never been easier or simpler. For each doe you create its litters
 may be viewed from the Manage Kits section
 
-        WEANER-KITS...
+<img src="C:\Users\Aleksander S\Pictures\Weaners.png" width="200"/>
+
 To record that doe has been mated, simply check the 'Mate' box:
 
-        DOE-FORM...
+<img src="C:\Users\Aleksander S\Pictures\DoeForm.png" width="200"/>
+
 If you go to the task tracker you'll notice that the date to palpation test has been updated.
 
         CONFIRMING PREGNANCY
@@ -90,7 +98,7 @@ Simply enter the date they were born and initial of kits under the 'Manage Weane
 ##Managing Sales
 As weaners reach maturity you'll also want to record sales made:
 
-      SALES...
+<img src="C:\Users\Aleksander S\Pictures\Sales.png" width="200"/>
 
 ## Running the application
 
